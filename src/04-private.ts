@@ -4,7 +4,7 @@
 export class MyDate {
   private year: number; //Propiedad privada
   month: number;
-  private day: number;
+  private day: number;  //Proiedad privada
 
   constructor(year: number, month: number, day: number){
     this.year = year;
@@ -20,7 +20,7 @@ export class MyDate {
     return `${day}/${month}/${this.year}`;
   }
 
-  private addPadding(value: number){
+  private addPadding(value: number){  //Metodo private
     if(value < 10){
       return `0${value}`;
     }
