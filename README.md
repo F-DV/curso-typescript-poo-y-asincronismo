@@ -7,5 +7,5 @@
 	4) Npx tsc --version
 	5) Npx tsc --init
 	6) Archivo .gitignore https://www.toptal.com/developers/gitignore
-	7) Archivo .editorconfig: recordar tener instalada la extension
-Carpertas dist, src
+	7) Archivo .editorconfig: recordar tener instalada la extension Carpertas dist, src
+
