@@ -19,5 +19,8 @@
   "homepage": "https://github.com/F-DV/curso-typescript-poo-y-asincronismo#readme",
   "devDependencies": {
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
   }
 }

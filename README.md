@@ -9,3 +9,6 @@
 	6) Archivo .gitignore https://www.toptal.com/developers/gitignore
 	7) Archivo .editorconfig: recordar tener instalada la extension Carpertas dist, src
 
+- Para trabajar con Promesas utilizamops la libreria AXIOS ya que fetch hasta ahora no funciona nativamente con node
+
+- https://axios-http.com/docs/intro
